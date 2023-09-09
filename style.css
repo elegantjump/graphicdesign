@@ -1,0 +1,51 @@
+.btnheader1{
+    width: 160px;
+height: 56px;
+
+border-radius: 27px;
+background: #D80808;
+border: 0px;
+cursor: pointer;
+}
+.btnheader2{
+    color: #FFF;
+font-family: Roboto;
+font-size: 19px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+width: 172px;
+height: 56px;
+
+border-radius: 27px;
+background: #D80808;
+border: 0px;
+cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
+.aheader{
+    color: #FFF;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+header{
+    background-image: url(/img1x/Rectangle\ 34\ \(1\).png);
+    padding-top: 25px;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.linkheader{
+    width: 688px;
+    display: flex;
+    justify-content: space-evenly;
+}
